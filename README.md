@@ -1,7 +1,7 @@
 # Tentative-newt-ape - Frontend Mentor - Easybank Landing Page Solution
 
-Welcome and thanks for viewing my solution to the [Easybank landing page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/easybank-landing-page-WaUhkoDN). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
-Hope this helps you understand how this page was built. 
+Welcome and thanks for viewing my solution to the [Easybank landing page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/easybank-landing-page-WaUhkoDN). Frontend Mentor challenges help you improve your coding skills by building realistic projects. _
+Hope when this is ready it helps you understand more how this page was built_
 
 ## Table of contents
 
@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Screenshot
 
-![https://github.com/Aperlae/Tentative-newt-ape/blob/main/Screenshot_mobileInterface_1.png?raw=true](./screenshot.jpg)
+![Screenshot_mobileInterface_1.png](./screenshot.jpg)
 ![/Screenshot_mobileInterface_1b.png](./screenshot.jpg)
 
 ### Links
@@ -40,17 +40,18 @@ Users should be able to:
 
 ### Built with
 
-- Semantic HTML5 markup
-- CSS custom properties
-- Flexbox
+- Semantic HTML5 markup - _errors still in need of fixing_
+- CSS custom properties 
+- Flexbox 
 - CSS Grid
-- Mobile-first workflow
+- Mobile-first workflow 
 
 - [Styled Components](https://styled-components.com/) - For styles
 
 
 ### What I learned
 
+_Need to go over the styles and js used to update_
 Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
 
 To see how you can add code snippets, see below:
