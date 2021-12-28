@@ -28,13 +28,13 @@ Users should be able to:
 
 ### Screenshot
 
-![Screenshot_mobileInterface_1.png](./screenshot.jpg)
-![/Screenshot_mobileInterface_1b.png](./screenshot.jpg)
+![Screenshot_mobileInterface_1.png](https://github.com/Aperlae/Tentative-newt-ape/blob/main/images/Screenshot_mobileInterface_1.png)
+![/Screenshot_mobileInterface_1b.png](https://github.com/Aperlae/Tentative-newt-ape/blob/main/images/Screenshot_mobileInterface_1b.png)
 
 ### Links
 
-- Solution URL: [https://www.frontendmentor.io/solutions/followed-coder-coders-5-hour-tutorial-thanks-jessica-learnt-a-lot-PGJCdl9Dv](https://your-solution-url.com)
-- Live Site URL: [https://easybank-landng-page.vercel.app/](https://your-live-site-url.com)
+- Solution URL: [](https://www.frontendmentor.io/solutions/followed-coder-coders-5-hour-tutorial-thanks-jessica-learnt-a-lot-PGJCdl9Dv)
+- Live Site URL: [](https://easybank-landng-page.vercel.app/)
 
 ## My process
 
